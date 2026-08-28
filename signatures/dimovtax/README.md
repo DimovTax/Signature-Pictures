@@ -1,6 +1,6 @@
 # dimovtax — signatures
 
-275 signature(s).
+276 signature(s).
 
 | Person | Name | Send-as |
 |---|---|---|
@@ -182,6 +182,7 @@
 | [`mitchell_serval`](mitchell_serval/) | Mitchell Serval | `mitchell_serval@dimovtax.com` |
 | [`mohamedk`](mohamedk/) | Mohamed Kargbo | `mohamedk@dimovtax.com` |
 | [`mohammad`](mohammad/) | Mohammad Yamin | `mohammad@dimovtax.com` |
+| [`murat`](murat/) | Murat Kurt | `murat@dimovtax.com` |
 | [`nargiza_dill`](nargiza_dill/) | Nargiza Dill, EA | `nargiza_dill@dimovtax.com` |
 | [`nastia`](nastia/) | Nastia Gnatiuk | `nastia@dimovtax.com` |
 | [`nataliefreyre`](nataliefreyre/) | Natalie Freyre | `nataliefreyre@dimovtax.com` |
