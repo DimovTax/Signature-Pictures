@@ -1,6 +1,6 @@
 # dimovtax — signatures
 
-277 signature(s).
+278 signature(s).
 
 | Person                                          | Name                                  | Send-as                             |
 | ----------------------------------------------- | ------------------------------------- | ----------------------------------- |
@@ -207,6 +207,7 @@
 | [`patrick`](patrick/)                           | Patrick Hayes                         | `patrick@dimovtax.com`              |
 | [`patrick_salazar`](patrick_salazar/)           | Patrick Salazar                       | `patrick_salazar@dimovtax.com`      |
 | [`paul_parker`](paul_parker/)                   | Paul Parker                           | `paul_parker@dimovtax.com`          |
+| [`pavel`](pavel/)                               | Pavel                                | `pavel@dimovtax.com`                |
 | [`peter_owiti`](peter_owiti/)                   | Peter Owiti                           | `peter_owiti@dimovtax.com`          |
 | [`proposals`](proposals/)                       | Dimov Proposal Team                   | `proposals@dimovtax.com`            |
 | [`raghad`](raghad/)                             | raghad                                | `raghad@dimovtax.com`               |
