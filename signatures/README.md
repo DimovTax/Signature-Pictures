@@ -10,6 +10,7 @@ All images referenced from this repo (`photos/`, `banners/`, `icons/`) via jsDel
 | [dbalexander](dbalexander/) | 54 | 54 |
 | [dimovaudit](dimovaudit/) | 9 | 9 |
 | [dimovtax](dimovtax/) | 275 | 275 |
+| [dimovtaxuk](dimovtaxuk/) | 0 | 0 |
 | [heliumdaytax](heliumdaytax/) | 2 | 2 |
 | [mariscpa](mariscpa/) | 28 | 28 |
 | [richmondstreetadvisors](richmondstreetadvisors/) | 10 | 10 |
@@ -18,6 +19,6 @@ All images referenced from this repo (`photos/`, `banners/`, `icons/`) via jsDel
 | [wasserman](wasserman/) | 26 | 26 |
 | [wattercpa](wattercpa/) | 75 | 75 |
 
-**Total: 578 signatures across 12 brands.**
+**Total: 578 signatures across 13 brands.**
 
 > These are prepared files — they are NOT necessarily what is live in Gmail.
