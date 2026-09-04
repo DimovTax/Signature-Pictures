@@ -126,6 +126,7 @@
 | [`jack_garcia`](jack_garcia/)                   | Jack Garcia                           | `jack_garcia@dimovtax.com`          |
 | [`jacob`](jacob/)                               | Jacob Christopher                     | `jacob@dimovtax.com`                |
 | [`jacqueline`](jacqueline/)                     | Jacqueline Heston                     | `jacqueline@dimovtax.com`           |
+| [`jacquelineh`](jacquelineh/)                   | Jacqueline Heston                     | `jacquelineh@dimovtax.com`          |
 | [`james_carlton`](james_carlton/)               | James Carlton                         | `james_carlton@dimovtax.com`        |
 | [`james_jacobs`](james_jacobs/)                 | James Jacobs                          | `james_jacobs@dimovtax.com`         |
 | [`jamoliddin`](jamoliddin/)                     | Jamoliddin Jalolov                    | `jamoliddin@dimovtax.com`           |
