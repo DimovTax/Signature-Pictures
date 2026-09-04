@@ -1,6 +1,6 @@
 # wattercpa — signatures
 
-75 signature(s).
+76 signature(s).
 
 | Person | Name | Send-as |
 |---|---|---|
@@ -30,6 +30,7 @@
 | [`enedzhan`](enedzhan/) | Enedzhan Gullyeva | `enedzhan@wattercpa.com` |
 | [`evgenya`](evgenya/) | Evgenya (Eve) | `evgenya@wattercpa.com` |
 | [`farruxbek`](farruxbek/) | Farruxbek Sayitqulov | `farruxbek@wattercpa.com` |
+| [`fedor`](fedor/) | Fedor Lapin | `fedor@wattercpa.com` |
 | [`fred`](fred/) | Fred Mumin | `fred@wattercpa.com` |
 | [`gabriela_reyes`](gabriela_reyes/) | Gabriela Reyes | `gabriela_reyes@wattercpa.com` |
 | [`galina`](galina/) | Galina Evdokimova | `galina@wattercpa.com` |

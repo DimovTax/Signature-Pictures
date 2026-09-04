@@ -16,9 +16,9 @@ All images referenced from this repo (`photos/`, `banners/`, `icons/`) via jsDel
 | [richmondstreetadvisors](richmondstreetadvisors/) | 10 | 10 |
 | [taxotter](taxotter/) | 9 | 9 |
 | [thetaxaccountinggroup](thetaxaccountinggroup/) | 38 | 38 |
-| [wasserman](wasserman/) | 26 | 26 |
-| [wattercpa](wattercpa/) | 75 | 75 |
+| [wasserman](wasserman/) | 27 | 27 |
+| [wattercpa](wattercpa/) | 76 | 76 |
 
-**Total: 578 signatures across 13 brands.**
+**Total: 580 signatures across 13 brands.**
 
 > These are prepared files — they are NOT necessarily what is live in Gmail.
