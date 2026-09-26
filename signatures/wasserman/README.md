@@ -1,6 +1,6 @@
 # wasserman — signatures
 
-26 signature(s).
+27 signature(s).
 
 | Person | Name | Send-as |
 |---|---|---|
@@ -13,6 +13,7 @@
 | [`cesar`](cesar/) | Cesar Coloma | `cesar@wasserman-cpa.net` |
 | [`diego`](diego/) | Diego Flores | `diego@wasserman-cpa.net` |
 | [`farruxbek`](farruxbek/) | Farruxbek Sayitqulov | `farruxbek@wasserman-cpa.net` |
+| [`fedor`](fedor/) | Fedor Lapin | `fedor@wasserman-cpa.net` |
 | [`felipe`](felipe/) | Felipe Cayo | `felipe@wasserman-cpa.net` |
 | [`george`](george/) | George Dimov, CPA | `george@wasserman-cpa.net` |
 | [`hermann`](hermann/) | Hermann Kozaev | `hermann@wasserman-cpa.net` |
